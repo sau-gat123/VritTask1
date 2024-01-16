@@ -1,0 +1,23 @@
+.contact-content{
+    position: relative;
+    height: 3rem;
+    border-bottom: 1px solid;
+}
+.contact-input{
+    position:absolute;
+    top:0;
+    left: 0;
+    width:100%;
+    height: 100%;
+    padding:1rem,1rem,1rem;
+    background:none;
+    border: none;
+    outline: none;
+    z-index: 1;
+}
+.conact-label{
+    position:absolute;
+    top:0.75rem;
+    width: 100%;
+    transition: 0.3s;
+}

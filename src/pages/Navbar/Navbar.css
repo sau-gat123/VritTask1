@@ -1,0 +1,29 @@
+.container{
+    display:flex;
+
+    font-family:'Rubik', sans-serif;
+    justify-content: space-between;
+  
+    
+    margin:"0px";
+    
+    
+
+  
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+.logo{
+    width: 100%;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    font-size: 1.75rem;
+ 
+    /* background-color: aqua; */
+
+}
